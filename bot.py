@@ -8,7 +8,7 @@ img = Image.open('kertas.jpg')
 nama = "abdullah AL Wafiaku"
 nim = "0110222103"
 rombel = "TI03"
-datenow = "Senin, 17 Oktober"
+datenow = "Kamis, 20 Oktober 2022"
 # Call draw Method to add 2D graphics in an image
 data = ImageDraw.Draw(img)
 tanggal = ImageDraw.Draw(img)
