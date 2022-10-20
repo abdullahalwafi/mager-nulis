@@ -1,0 +1,19 @@
+P = x^4 + 9x^3 - x^2 + 22
+Q = 2x^4 -3x^3 + 5x -2
+
+1. Derajat P = 4
+2. Derajat Q = 4
+3. Polinum P                Polinum Q
+- Koefisien x^4 = 1         - Koefisien x^4 = 2
+- Koefisien x^3 = 9         - Koefisien x^3 = -3
+- Koefisien x^2 = -1        - Koefisien x^2 = 0
+- Koefisien x = 0           - Koefisien x = 5
+- Konstanta 22              - Konstanta -2
+
+4. P+Q = (x^4 + 2x^4) + (9x^3 - 3x^3) + (-x^2 + 0) + (0 + 5x) + (22 -2)
+P+Q = 3x^4 + 6x^3 -x^2 +5x +20
+5. P-Q = (x^4 - 2x^4) + (9x^3 + 3x^3) + (-x^2 + 0) + (0 + 5x) + (22 -2)
+P-Q = - 2x^4
+
+
+
